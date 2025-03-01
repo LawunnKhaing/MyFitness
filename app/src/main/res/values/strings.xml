@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Fitness</string>
+    <string name="welcome_message">Welcome to MyFitnessApp!</string>
+    <string name="activity_tracker">Activity Tracker</string>
+    <string name="sleep_tracker">Sleep Tracker</string>
+    <string name="profile">Profile</string>
+    <string name="period_tracker">Period Tracker</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="hey_there">Hey there,</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="please_fill_fields">Please fill in all fields.</string>
+    <string name="login_failed">Login failed: %1$s</string>
+    <string name="or">Or</string>
+    <string name="register_prompt">Don’t have an account yet? <u>Register</u></string>
+    <string name="create_account">Create an Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="birthday">Birthday</string>
+
+
+</resources>
