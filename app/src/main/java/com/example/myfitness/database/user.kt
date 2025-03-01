@@ -21,10 +21,10 @@ data class BMI(
 )
 
 data class SleepData(
-    val lastNightSleep: String? = null,  // Stores sleep time from the previous night
-    val alarmTime: String? = null,       // Stores alarm time for the next wakeup
-    val alarmSoundUri: String? = null,   // Stores URI for the alarm sound
-    val sleepGoal: Int = 8, // Sleep goal, default is 8 hours
+    val lastNightSleep: String? = null,
+    val alarmTime: String? = null,
+    val alarmSoundUri: String? = null,
+    val sleepGoal: Int = 8,
     val weeklySleep: List<String> = listOf("0h 0m", "0h 0m", "0h 0m", "0h 0m", "0h 0m", "0h 0m", "0h 0m"),
 )
 
