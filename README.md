@@ -7,7 +7,7 @@ MyFitness is a mobile application designed to help users track and maintain a he
 - **Login/Signup:** Secure login and registration with Firebase Authentication.
 - **Step Counter:** Set daily step goals and track weekly progress.
 - **Sleep Tracker:** Record daily sleep hours and view your weekly sleep schedule.
-- **Water Intake:** Monitor daily water consumption.
+- **Water Intake:** Monitor daily water consumption per litres.
 - **BMI Calculator:** Keep track of your body mass index and health status.
 - **Workout Schedule:** Plan and follow your fitness routines easily.
 - **User-friendly Interface:** Clean and visually appealing design for a better user experience.
