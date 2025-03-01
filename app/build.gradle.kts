@@ -56,10 +56,10 @@ dependencies {
     implementation ("com.google.android.gms:play-services-fitness:21.0.1")
     implementation("com.google.firebase:firebase-analytics-ktx")
     implementation("com.google.firebase:firebase-auth-ktx:22.1.1")
-    implementation("com.google.firebase:firebase-database-ktx:20.2.1") // Latest version at the time of writing
+    implementation("com.google.firebase:firebase-database-ktx:20.2.1")
     implementation ("com.google.firebase:firebase-firestore:24.0.1")
     implementation("io.coil-kt:coil-compose:2.4.0")
-    implementation ("androidx.compose.material3:material3:1.1.0") // Adjust version as needed
+    implementation ("androidx.compose.material3:material3:1.1.0")
     implementation ("androidx.compose.material:material-icons-extended:1.1.0")
     implementation ("com.github.PhilJay:MPAndroidChart:v3.1.0")
     implementation ("com.github.bumptech.glide:glide:4.12.0")
